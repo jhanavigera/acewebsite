@@ -42,7 +42,7 @@ p {
 }
 
 a:hover, a:focus, a:active, a.active {
-    color: #fec503;
+    color: #a9a9a9a9;
 }
 a, a:hover, a:focus, a:active, a.active {
     outline: 0;
@@ -50,7 +50,7 @@ a, a:hover, a:focus, a:active, a.active {
 
 ::selection {
     text-shadow: none;
-    background: #fed136;
+    background: #a9a9a9a9;
 }
 
 @media (min-width: 768px) {
@@ -90,20 +90,20 @@ section {
     padding: 5px;
 }
 .navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active {
-	color: #fec503
+	color: #a9a9a9a9
 }
 .navbar-default .navbar-collapse {
 	border-color: rgba(255,255,255,.02)
 }
 .navbar-default .navbar-toggle {
-	background-color: #fed136;
-	border-color: #fed136
+	background-color: #a9a9a9a9;
+	border-color: #a9a9a9a9
 }
 .navbar-default .navbar-toggle .icon-bar {
 	background-color: #fff
 }
 .navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus {
-	background-color: #fed136
+	background-color: #a9a9a9a9
 }
 .navbar-default .nav li a {
     font-family: "Roboto",sans-serif;
@@ -126,11 +126,11 @@ section {
 .navbar-default .navbar-nav>.active>a {
 	border-radius: 0;
 	color: #fff;
-	background-color: #fed136
+	background-color: #a9a9a9a9
 }
 .navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus {
 	color: #fff;
-	background-color: #fec503
+	background-color: #a9a9a9a9
 }
 
 @media (min-width:768px) {
@@ -563,7 +563,7 @@ font-size: 11px;
 }
 
 .modal-works span {
-	background-color: #FED136;
+	background-color: #a9a9a9a9;
     margin-right: 15px;
     padding: 5px 10px;
 }
@@ -574,13 +574,13 @@ font-size: 11px;
 
 .btn-xl:hover, .btn-xl:focus, .btn-xl:active, .btn-xl.active, .open .dropdown-toggle.btn-xl {
     color: #fff;
-    background-color: #fec503;
+    background-color: #a9a9a9a9;
     border-color: #f6bf01;
 }
 
 .btn:hover, .btn:focus, .btn:active, .btn.active, .open .dropdown-toggle.btn {
     color: #fff;
-    background-color: #fec503;
+    background-color: #a9a9a9a9;
     border-color: #f6bf01;
 }
 
@@ -642,7 +642,7 @@ font-size: 11px;
     transition: 1s;
 }
 #back-top a:hover {
-    background: #fed136;
+    background: #a9a9a9a9;
 }
 /* arrow icon (span tag) */
 #back-top i {
